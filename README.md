@@ -1,4 +1,4 @@
-# NumMorph 🔢🧠
+# NumMorph
 
 **NumMorph** is a Python project that converts numbers to English words and back. It's designed for developers who need accurate number-word parsing in bots, forms, or natural language interfaces.
 
@@ -6,10 +6,10 @@
 
 ## Features
 
-- 🔁 Convert numeric strings (e.g. `"1234"`) to English words (`"one thousand two hundred and thirty four"`)
-- 🔁 Convert English words (`"two hundred and five"`) to numeric form (`205`)
-- 🧠 Handles compound numbers, hundreds, thousands, and "and" logic
-- 🧩 Modular design for easy extension (e.g. millions, decimals, Persian support)
+- Convert numeric strings (e.g. `"1234"`) to English words (`"one thousand two hundred and thirty four"`)
+- Convert English words (`"two hundred and five"`) to numeric form (`205`)
+- Handles compound numbers, hundreds, thousands, and "and" logic
+- Modular design for easy extension (e.g. millions, decimals, Persian support)
 
 ---
 
